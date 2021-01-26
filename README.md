@@ -1,4 +1,4 @@
-# python-careerfoundry project 
+# python-careerfoundry-project 
 ## Project based on InstaCart product & customer data
 Primary aims:
 - Perform initial data and exploratory analysis 
